@@ -1,4 +1,4 @@
-# Exercise 1: Explore the Learn Sandbox
+# Exercise - Explore the Learn Sandbox
 
 ## Tasks
 
