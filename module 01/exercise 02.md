@@ -8,4 +8,13 @@
 - Select Review and Create.
 - Select Create.
 
-- 
+![Task 1 Screenshot](screenshots/m1_ex2(task1).png)
+
+### Task 2: Verify resources created
+- Once the deployment is created, you can verify that Azure created not only a VM, but all of the associated resources the VM needs.
+- Select Home.
+- Select Resource groups.
+- Select the [sandbox resource group name] resource group.
+- You will see a list of resources in the resource group. The storage account and virtual network are associated with the Learn sandbox. However, the rest of the resources were created when you created the virtual machine.
+
+![Task 2 Screenshot](screenshots/m1_ex2(task2).png)
