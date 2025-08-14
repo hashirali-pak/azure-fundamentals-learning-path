@@ -1,1 +1,1 @@
-# exercise 01
+# Exercise - Create an Azure virtual machine
