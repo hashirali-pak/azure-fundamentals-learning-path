@@ -1,4 +1,4 @@
-# Module 4: Describe Azure Storage Services
+# Module 3: Describe Azure Storage Services
 
 ## Key Learnings
 - **Storage Services:** Overview of Azure Storage Accounts and their relationship to different storage services.
