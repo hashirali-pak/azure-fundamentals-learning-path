@@ -8,15 +8,15 @@
 - **Security Tools:** Overview of Microsoft Defender for Cloud and Conditional Access in Microsoft Entra.
 
 ## Achieved Learning Objectives
-- **Directory Services:***
+- **Directory Services:**
   - Described Microsoft Entra ID and Microsoft Entra Domain Services
-- **Authentication:***
+- **Authentication:**
   - Explained SSO, MFA, and passwordless authentication methods
-- **External Access:***
+- **External Access:**
   - Outlined external identities and guest access scenarios
-- **Access Management:***
+- **Access Management:**
   - Defined Azure RBAC principles
-- **Security Frameworks:***
+- **Security Frameworks:**
   - Explained Zero Trust and Defense in Depth models
-- **Security Monitoring:***
+- **Security Monitoring:**
   - Described the purpose of Microsoft Defender for Cloud
